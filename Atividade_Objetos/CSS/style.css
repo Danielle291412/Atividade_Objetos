@@ -1,0 +1,18 @@
+fieldset{
+    width: 300px;
+    border: 2px solid rgb(165, 64, 212);
+}
+
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+form{
+    color: rgb(64, 61, 66);
+}
+
+input{
+    color: rgb(129, 73, 183);
+    background-color: rgb(183, 228, 213);
+}
